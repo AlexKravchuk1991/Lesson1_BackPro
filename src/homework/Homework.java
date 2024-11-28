@@ -35,5 +35,6 @@ public class Homework {
         }
 
         System.out.println("результат работы 2-х потоков: "+ counter2);
+        System.out.println("Hello Java");
     }
 }
